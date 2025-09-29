@@ -6,5 +6,3 @@ Today I connected a database from MSQL to Notebooks and succesfully displayed it
 <img width="1212" height="643" alt="image" src="https://github.com/user-attachments/assets/29fed0a6-89d3-4e19-82ba-54b3d99da7ae" />
 <img width="738" height="654" alt="image" src="https://github.com/user-attachments/assets/cfc9e6fe-8ebe-442d-9daf-436bd9415a9e" />
 <img width="703" height="617" alt="image" src="https://github.com/user-attachments/assets/71b2a6eb-d123-4db7-98a3-30ceee10d9c0" />
-
-
